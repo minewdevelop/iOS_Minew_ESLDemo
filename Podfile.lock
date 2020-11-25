@@ -1,0 +1,20 @@
+PODS:
+  - Masonry (1.1.0)
+  - MinewESLSingleKit (1.0.2)
+
+DEPENDENCIES:
+  - Masonry
+  - MinewESLSingleKit
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+    - MinewESLSingleKit
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MinewESLSingleKit: d086751d7b4428834caf99e438b41492572d8aab
+
+PODFILE CHECKSUM: 6736ec8a5ff230c497801d9cbfcbbe11a889e393
+
+COCOAPODS: 1.10.0

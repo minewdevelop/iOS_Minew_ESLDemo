@@ -1,0 +1,6 @@
+framework module MinewESLSingleKit {
+  umbrella header "MinewESLSingleKit.h"
+
+  export *
+  module * { export * }
+}
